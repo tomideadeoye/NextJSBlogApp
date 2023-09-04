@@ -1,0 +1,30 @@
+@import url('https://unpkg.com/open-props/easings.min.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root,
+body *:not(svg) {
+  @apply scrollbar-thin scrollbar-thumb-rounded-full;
+  @apply scrollbar-track-gray-200 scrollbar-thumb-gray-400 hover:scrollbar-thumb-gray-500;
+  @apply dark:scrollbar-thumb-gray-600 dark:hover:scrollbar-thumb-gray-500;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:focus {
+  transition:
+    background-color 600000s 0s,
+    color 600000s 0s;
+}
+
+::view-transition-image-pair(root) {
+  isolation: auto;
+}
+
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation: none;
+  mix-blend-mode: normal;
+  display: block;
+}
