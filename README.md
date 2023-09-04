@@ -5,6 +5,11 @@
 This is a simple blog application that allows users to compose and publish blog posts with various content types. It was developed using modern web technologies and follows best practices for building web applications.
 
 
+
+https://github.com/tomideadeoye/NextJSBlogApp/assets/55337742/425aa3e5-d6af-4dc4-aa5f-da750ce42274
+
+
+
 ## Features
 
 ### 1. Compose Blog Posts
