@@ -4,8 +4,6 @@
     "start": "next dev",
     "dev": "next dev",
     "build": "next build",
-    "postbuild": "npm run sitemap && npm run rss",
-    "compose": "tsx ./scripts/compose.ts",
     "serve": "next start",
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "eslint --cache --ext .js,.jsx,.ts,.tsx .",
