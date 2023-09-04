@@ -92,6 +92,6 @@ Contributions are welcome! If you have any suggestions, feature requests, or bug
 
 ## Author
 
-Tomide Adeoye
-LinkedIn: https://www.linkedin.com/in/tomide-adeoye-828604129/
+* Tomide Adeoye
+* LinkedIn: https://www.linkedin.com/in/tomide-adeoye-828604129/
 ---
