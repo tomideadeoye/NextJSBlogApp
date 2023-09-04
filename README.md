@@ -56,6 +56,7 @@ This is a simple blog application that allows users to compose and publish blog 
 *  **TypeScript** : A statically typed superset of JavaScript, used to enhance code quality.
 *  **localStorage** : Web storage for persisting blog post data locally in the browser.
 *  **Toaster** : Custom toast notifications for user feedback.
+*  ** Light and 🌘 dark theme** 
 
 ## Getting Started
 
@@ -80,15 +81,6 @@ This is a simple blog application that allows users to compose and publish blog 
 1.  **View Published Posts** :
    * On the home page, you can view all the published blog posts.
    * Click on a post to view its details.
-1.  **Edit and Delete Posts** :
-   * Edit and delete your own posts using the provided options on each post's detail page.
-1.  **Explore Features** :
-   * Explore the various features of the application, including dynamic section management, real-time validation, and toast notifications.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
-
 
 ## Author
 
